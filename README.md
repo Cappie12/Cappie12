@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## It's me... Cappie
+**Software Engineer, Project Manager and Tech Lead**
 <!--
 **Cappie12/Cappie12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
